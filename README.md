@@ -1,33 +1,24 @@
-# 🎨 Recursos del Canal
+# 📚 Recursos del Canal
 
-## 📁 Carpeta: `etcher-software-vector-logo-seeklogo`
+¡Bienvenido a **Recursos del Canal**! 🚀
 
-Aquí encontrarás **dos versiones** del logo de **Balena Etcher** para que puedas personalizar tu sistema:
-
-| Archivo | Descripción |
-|:--------|:------------|
-| `etcher-logo.svg` | 🖼️ Formato vectorial (ideal para alta resolución y escalable sin perder calidad). |
-| `etcher-logo.png` | 🖼️ Formato de imagen estándar (ideal para compatibilidad general). |
+Aquí encontrarás carpetas y archivos que comparto en mis videos de YouTube para que puedas descargarlos y usarlos fácilmente.  
+Desde iconos, scripts, plantillas y más, todo estará organizado y actualizado en este repositorio.
 
 ---
 
-## 🚀 ¿Cómo usar estos logos?
+## 📂 Secciones actuales:
 
-Puedes utilizar cualquiera de estos logos para:
-
-- Personalizar el ícono de **Balena Etcher** en tu sistema Linux.
-- Asignarlo a lanzadores, accesos directos o menús de aplicaciones.
-- Usarlo en proyectos educativos o personales.
+- [etcher-software-vector-logo-seeklogo](./etcher-software-vector-logo-seeklogo) — Logos de Balena Etcher en formato PNG y SVG.
 
 ---
 
-## ⚠️ Nota importante
+## 🎯 Objetivo
 
-Estos logos son proporcionados **solo para fines educativos y de personalización personal**.  
-**No** deben ser utilizados con fines comerciales o de redistribución masiva.
+Este repositorio busca facilitarte el acceso a los materiales que menciono en los videos, ayudándote a ahorrar tiempo y a personalizar mejor tu experiencia.
 
 ---
 
-## 🙌 ¡Gracias por ser parte de esta comunidad!
+## 🙌 ¡Gracias por ser parte de la comunidad!
 
-Si te gusta este recurso, no olvides dejar tu ⭐ en el repositorio.
+No olvides dejar tu ⭐ si este contenido te resulta útil.
